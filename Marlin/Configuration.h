@@ -1732,13 +1732,13 @@
 #define LCD_INFO_SCREEN_STYLE 0
 
 /**
- * SD CARD
+ * SD CARD on the connected LCD controller
  *
  * SD Card support is disabled by default. If your controller has an SD slot,
  * you must uncomment the following option or it won't work.
  *
  */
-#define SDSUPPORT
+//#define SDSUPPORT
 
 /**
  * SD CARD: SPI SPEED
